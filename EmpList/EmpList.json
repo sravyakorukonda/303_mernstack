@@ -1,0 +1,27 @@
+[
+ {
+  "EmpCode": 123,
+  "EmpName": "abc",
+  "Designation": "xyz"
+ },
+ {
+  "EmpCode": 456,
+  "EmpName": "def",
+  "Designation": "cf"
+ },
+ {
+  "EmpCode": 26,
+  "EmpName": "dfg",
+  "Designation": "qeh"
+ },
+ {
+  "EmpCode": 45,
+  "EmpName": "ddf",
+  "Designation": "ngc"
+ },
+ {
+  "EmpCode": 345,
+  "EmpName": "fg",
+  "Designation": "dtv"
+ }
+]
