@@ -1,27 +1,32 @@
 [
  {
-  "EmpCode": 123,
-  "EmpName": "abc",
-  "Designation": "xyz"
+  "EmpCode": MRUE2009T005,
+  "EmpName": "MEERAVALI SHAIK",
+  "Designation": "HOD",
+  "Photo": "https://tse2.mm.bing.net/th?id=OIP.AdoJAsiWdwMNG0ZTvUoTUQHaHa&pid=Api&P=0&h=180"
  },
  {
-  "EmpCode": 456,
-  "EmpName": "def",
-  "Designation": "cf"
+  "EmpCode": MRUE2304T204,
+  "EmpName": "ASHISH VARDHAN",
+  "Designation": "ASSOSIATE PROFESSER",
+  "Photo": "https://tse2.mm.bing.net/th?id=OIP.AdoJAsiWdwMNG0ZTvUoTUQHaHa&pid=Api&P=0&h=180"
  },
  {
-  "EmpCode": 26,
-  "EmpName": "dfg",
-  "Designation": "qeh"
+  "EmpCode": MRUE2111T060,
+  "EmpName": "GOUTHAMM",
+  "Designation": "ASSISTANT PROFESSOR"
+  "photo": "https://tse2.mm.bing.net/th?id=OIP.AdoJAsiWdwMNG0ZTvUoTUQHaHa&pid=Api&P=0&h=180"
  },
  {
-  "EmpCode": 45,
-  "EmpName": "ddf",
-  "Designation": "ngc"
+  "EmpCode": MRUE2110T050,
+  "EmpName": "RAJU",
+  "Designation": "ASSISTENT PROFESSOR",
+  "Photo": "https://tse2.mm.bing.net/th?id=OIP.AdoJAsiWdwMNG0ZTvUoTUQHaHa&pid=Api&P=0&h=180"
  },
  {
-  "EmpCode": 345,
-  "EmpName": "fg",
-  "Designation": "dtv"
+  "EmpCode": MRUE2211T156,
+  "EmpName": "MOUNIKA",
+  "Designation": "ASSISTENT PROFESSOR",
+  "Photo": "https://tse2.mm.bing.net/th?id=OIP.AdoJAsiWdwMNG0ZTvUoTUQHaHa&pid=Api&P=0&h=180"
  }
 ]
