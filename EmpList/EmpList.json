@@ -1,26 +1,26 @@
 [
  {
-  "EmpCode": MRUE2009T005,
+  "EmpCode": "MRUE2009T005",
   "EmpName": "MEERAVALI SHAIK",
   "Designation": "HOD"
  },
  {
-  "EmpCode": MRUE2304T204,
+  "EmpCode": "MRUE2304T204",
   "EmpName": "ASHISH VARDHAN",
   "Designation": "ASSOSIATE PROFESSER"
  },
  {
-  "EmpCode": MRUE2111T060,
+  "EmpCode": "MRUE2111T060",
   "EmpName": "GOUTHAMM",
   "Designation": "ASSISTANT PROFESSOR"
  },
  {
-  "EmpCode": MRUE2110T050,
+  "EmpCode": "MRUE2110T050",
   "EmpName": "RAJU",
   "Designation": "ASSISTENT PROFESSOR"
  },
  {
-  "EmpCode": MRUE2211T156,
+  "EmpCode": "MRUE2211T156",
   "EmpName": "MOUNIKA",
   "Designation": "ASSISTENT PROFESSOR"
  }
